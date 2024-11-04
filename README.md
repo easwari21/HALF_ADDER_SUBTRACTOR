@@ -93,4 +93,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/bc39316e-f5a1-4a54-9d49-831308fdc78c)
 
 **Result:**
+
 Thus a half adder and half subtractor circuits are designed and verified in Quartus using Verilog programming.
